@@ -25,4 +25,4 @@ export const siteConfig: SiteConfig = {
     github: "https://github.com/rudrodip/titan",
     x: "https://x.com/rds_agi",
   }
-}
+}
