@@ -13,4 +13,4 @@ export type SiteConfig = {
     github: string;
     x: string;
   }
-}
+}
